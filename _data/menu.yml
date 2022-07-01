@@ -1,0 +1,18 @@
+entries:
+    - title: info
+      entries:
+          - title: reverse engineer, chicken scheme, c/c++
+          - title: hackthebox
+            url: https://app.hackthebox.com/users/39960
+          - title: github
+            url: https://github.com/thedvd98/
+          - title: rss
+            url: feed.xml
+
+    - title: all posts
+      post_list:
+        limit: 5
+        show_more: true
+        show_more_text: See archive...
+        show_more_url: archive.html
+

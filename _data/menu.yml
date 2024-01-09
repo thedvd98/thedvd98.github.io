@@ -3,7 +3,7 @@ entries:
       entries:
           - title: reverse engineer, chicken scheme, c/c++
           - title: hackthebox
-            url: https://app.hackthebox.com/users/39960
+            url: https://app.hackthebox.com/profile/39960
           - title: github
             url: https://github.com/thedvd98/
           - title: rss
@@ -15,4 +15,7 @@ entries:
         show_more: true
         show_more_text: See archive...
         show_more_url: archive.html
+
+          #- title: <script src="https://www.hackthebox.com/badge/39960"></script>
+
 
